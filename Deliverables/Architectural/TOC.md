@@ -4,6 +4,6 @@ b. Architectural Floor Plans
 
 c. Building Rendering.
 
-d. Buildine Elevation.
+d. Building Elevation.
 
 e. Exterior & Interior Finishes.
