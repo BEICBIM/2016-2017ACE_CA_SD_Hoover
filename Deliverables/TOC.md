@@ -1,4 +1,13 @@
 1. Architectural
+a. Digital Building Model
+
+b. Architectural Floor Plans
+
+c. Building Rendering.
+
+d. Building Elevation.
+
+e. Exterior & Interior Finishes.
 
 2. Engineering
 
