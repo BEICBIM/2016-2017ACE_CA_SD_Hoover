@@ -1,5 +1,8 @@
-Architectural
+1. Architectural
 
-Engineering
+2. Engineering
 
-Construction
+3. Construction
+
+All work in this project repository is licensed as described in [License.md](https://github.com/BEICBIM/2016-2017ACE_CA_SD_Hoover/blob/master/License.md)  Attribution to be given to [ACE Club Hoover High School](https://www.facebook.com/ACEHooverHS/)
+![CC By NC](https://licensebuttons.net/l/by-nc/3.0/88x31.png)
