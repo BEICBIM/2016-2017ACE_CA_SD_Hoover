@@ -5,4 +5,5 @@ This project aims to deliver the proposal content requested by the ACE San Diego
 
 ACE club students at Hoover Highschool are ecnouraged to contribute to the project.  See Contribute.md for more information on how. 
 
-All work in this project repository is licensed as described in License.md  Attribution to be given to [ACE Club Hoover High School](https://www.facebook.com/ACEHooverHS/)
+All work in this project repository is licensed as described in [License.md](https://github.com/BEICBIM/2016-2017ACE_CA_SD_Hoover/blob/master/License.md)  Attribution to be given to [ACE Club Hoover High School](https://www.facebook.com/ACEHooverHS/)
+![CC By NC](https://licensebuttons.net/l/by-nc/3.0/88x31.png)
