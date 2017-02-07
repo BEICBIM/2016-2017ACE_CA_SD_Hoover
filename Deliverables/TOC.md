@@ -10,7 +10,7 @@ d. Building Elevation.
 
 e. Exterior & Interior Finishes.
 
-*Engineering*
+**Engineering**
 
 a. Civil Site Plan
 
@@ -24,7 +24,7 @@ e. Electrical Plan
 
 d. Landscape Plan
 
-*Construction*
+**Construction**
 
 a. Project Schedule
 
