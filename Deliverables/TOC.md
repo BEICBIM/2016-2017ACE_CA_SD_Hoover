@@ -1,4 +1,5 @@
 *Architectural*
+
 a. Digital Building Model
 
 b. Architectural Floor Plans
@@ -10,6 +11,7 @@ d. Building Elevation.
 e. Exterior & Interior Finishes.
 
 *Engineering*
+
 a. Civil Site Plan
 
 b. Structural Framing Plan
