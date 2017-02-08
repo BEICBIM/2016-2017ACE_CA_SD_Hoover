@@ -1,4 +1,4 @@
-# Sally Wong Building Repurposing
+# Sally Wong Building Re-Imaging
 Hoover High School ACE Club Design Project for Academic Year 2016-2017
 
 This repository has been established to support the 2016-2017 Academic Year [ACE Club Hoover High School](https://www.facebook.com/ACEHooverHS/) design project at Hoover High School, in San Diego CA.  [ACE Mentors, Volunteers](http://www.acementor.org/mentors-volunteers/), and [Students](http://www.acementor.org/students/) can use this repsotiory to collaboratively develop and host their project development and design content.
